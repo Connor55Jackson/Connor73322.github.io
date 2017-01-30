@@ -1,5 +1,5 @@
 # PYTHON2 PRINT
-print 'Hello World'
+print 'The Banana eats the CHICKEN!'
 
 # PYTHON3 PRINT
-# print('Hello World')
+# print('The Chicken eats the WAFFLES')
