@@ -1,9 +1,7 @@
 # Connors Practice script
 
-# This is python2 print
-print 'The Banana eats the CHICKEN!'
+#Type rect(); and add numbers to make a rectangle for example
+rect(100, 200, 79, 176);
 
-# This is python3 print
-# print('The Chicken eats the WAFFLES')
-
-# Those are the differences
+#To make a circle its ellipse();
+ellipse(150, 150, 200, 200);
